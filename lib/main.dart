@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
                 Text(
                   "Nassem Ahmed mubarak",
                   style: TextStyle(
-                    color: Colors.red,
+                    color: Colors.blue,
                     backgroundColor: Colors.amber,
                     fontWeight: FontWeight.w900,
                     fontSize: 50
